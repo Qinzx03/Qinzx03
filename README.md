@@ -1,10 +1,11 @@
 # Hi there! I'm Qinzx03 👋
 
 ## 👨‍💻 About Me
+
 * 🎓 **Education**
 
-  * **Ph.D. Student in Mechanical Engineering**, Shanghai Jiao Tong University (SJTU), 2025–Present
-  * **B.Eng. in Mechanical Engineering**, Southeast University (SEU), 2021–2025
+  * Ph.D. Student, Mechanical Engineering @ SJTU, 2025–Present
+  * B.Eng., Mechanical Engineering @ SEU, 2021–2025
 
 - 🤖 Researching quadruped robot locomotion and navigation
 - 🧠 Interested in reinforcement learning, robot perception, and sim-to-real transfer
