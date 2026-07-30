@@ -8,16 +8,12 @@
 
 - 🤖 Researching quadruped robot locomotion and navigation
 
-
 ## 🔬 Research Interests
-
-- Quadruped Robot Locomotion
-- Learning-based Robot Navigation
-- Reinforcement Learning
-- Robot Perception
+- Quadruped Robot
+- Locomotion
+- Navigation
 
 ## 📫 Connect with Me
-
 - GitHub: [Qinzx03](https://github.com/Qinzx03)
 - bilibili: https://space.bilibili.com/449201226
 - Email: qinzhengxu03@gmail.com
