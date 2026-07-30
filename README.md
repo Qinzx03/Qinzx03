@@ -1,7 +1,6 @@
 # Hi there! I'm Qinzx03 👋
 
 ## 👨‍💻 About Me
-
 * 🎓 **Education**
   * Ph.D Student, SJTU, School of Mechanical Engineering, 2025–Present
   * B.Eng, SEU, School of Mechanical Engineering, 2021–2025
