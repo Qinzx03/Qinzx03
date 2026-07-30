@@ -4,8 +4,8 @@
 
 * 🎓 **Education**
 
-  * Ph.D. Student, SJTU, Mechanical Engineering, 2025–Present
-  * B.Eng., SEU, Mechanical Engineering, 2021–2025
+  * Ph.D Student, SJTU, School of Mechanical Engineering, 2025–Present
+  * B.Eng, SEU, School of Mechanical Engineering, 2021–2025
 
 - 🤖 Researching quadruped robot locomotion and navigation
 - 🧠 Interested in reinforcement learning, robot perception, and sim-to-real transfer
