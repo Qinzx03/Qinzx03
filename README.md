@@ -22,3 +22,4 @@
 
 - GitHub: [Qinzx03](https://github.com/Qinzx03)
 - bilibili: https://space.bilibili.com/449201226
+- Email: qinzhengxu03@gmail.com
