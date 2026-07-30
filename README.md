@@ -14,14 +14,6 @@
 - Reinforcement Learning
 - Robot Perception
 
-## 🛠 Tech Stack
-
-- **Programming:** Python, C++
-- **Robot Software:** ROS 2, Isaac Lab, Isaac Sim
-- **Learning:** PyTorch, Reinforcement Learning
-- **Platforms:** Unitree Go2, NVIDIA Jetson
-- **Tools:** Git, Linux, MuJoCo
-
 ## 📫 Connect with Me
 
 - GitHub: [Qinzx03](https://github.com/Qinzx03)
