@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Education: Phd SJTU School of Mechanical Engineering(2025-now)  |  SJTU School of Mechanical Engineering(2025-now)
-- - **Ph.D. in Robotics**, Shanghai Jiao Tong University, 2024–Present
-- **B.Eng. in Mechanical Engineering**, XXX University, 2020–2024
+- 🎓 **Education**:
+- PhD, SJTU, School of Mechanical Engineering, 2025-Present
+- Bachelor, SEU, School of Mechanical Engineering, 2021-2025
 - 🤖 Researching quadruped robot locomotion and navigation
 - 🧠 Interested in reinforcement learning, robot perception, and sim-to-real transfer
 - 🐕 Currently working with the Unitree Go2
