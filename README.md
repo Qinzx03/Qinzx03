@@ -9,6 +9,7 @@
 
 ## 🔬 Research Interests
 - Quadruped Robot
+- Reinforcement Learning
 - Locomotion
 - Navigation
 
