@@ -5,10 +5,8 @@
   * Ph.D Student, SJTU, School of Mechanical Engineering, 2025–Present
   * B.Eng, SEU, School of Mechanical Engineering, 2021–2025
 
-- 🤖 Researching quadruped robot locomotion and navigation
-
 ## 🔬 Research Interests
-- Quadruped Robot
+- Quadruped Robot 🤖
 - Reinforcement Learning
 - Locomotion
 - Navigation
