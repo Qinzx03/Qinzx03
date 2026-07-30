@@ -6,7 +6,6 @@
 - 🤖 Researching quadruped robot locomotion and navigation
 - 🧠 Interested in reinforcement learning, robot perception, and sim-to-real transfer
 - 🐕 Currently working with the Unitree Go2
-- 🏔️ Focusing on quadruped navigation and locomotion in 3D confined environments
 
 ## 🔬 Research Interests
 
