@@ -1,9 +1,11 @@
-# Hi there! I'm Qinzx03 👋
+# Hi there! I'm QinZhengxu 👋
 
 ## 👨‍💻 About Me
 * 🎓 **Education**
   * Ph.D Student, SJTU, School of Mechanical Engineering, 2025–Present
   * B.Eng, SEU, School of Mechanical Engineering, 2021–2025
+* 🎮 **Personal Interests**
+  * League of Legends(Peak rank: Diamond)
 
 ## 🔬 Research Interests
 - Quadruped Robot 🤖
