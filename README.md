@@ -5,7 +5,8 @@
   * Ph.D Student, SJTU, School of Mechanical Engineering, 2025–Present
   * B.Eng, SEU, School of Mechanical Engineering, 2021–2025
 * 🎮 **Personal Interests**
-  * League of Legends(Peak rank: Diamond), VALORANT, Slay the Spire
+  * Game: League of Legends(Peak rank: Diamond), VALORANT, Slay the Spire
+  * Sport: ping pong
 
 ## 🔬 Research Interests
 - Quadruped Robot 🤖
