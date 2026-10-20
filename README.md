@@ -12,6 +12,7 @@
 - Quadruped Robot 🤖
 - Reinforcement Learning
 - Locomotion
+- Loco-manipulation
 - Navigation
 
 ## 📫 Connect with Me
